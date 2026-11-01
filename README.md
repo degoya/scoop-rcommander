@@ -13,7 +13,7 @@ brings the next release; rCommander installed through Scoop does not replace its
 update window shows that command. Its settings and connections live in the user's data folder
 (`%APPDATA%\degoya\rCommander`), not in Scoop's app folder, so an update or reinstall keeps them.
 
-Current version: 0.14.0. The manifest is written by the release workflow of
+Current version: 0.15.0. The manifest is written by the release workflow of
 [degoya/rCommander](https://github.com/degoya/rCommander) with every release - issues and changes go there,
 not here. The handbook's installation page:
 <https://github.com/degoya/rCommander/wiki/installation>.
